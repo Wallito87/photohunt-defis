@@ -16,5 +16,11 @@
     "imageUrl": "https://raw.githubusercontent.com/Wallito87/photohunt-defis/refs/heads/main/images/defi3.jpg",
     "latitude": 50.226462,
     "longitude": 5.342637
+  },
+  {
+    "nom": "Test défi 4",
+    "imageUrl": "https://raw.githubusercontent.com/Wallito87/photohunt-defis/refs/heads/main/images/defi4.jpg",
+    "latitude": 50.192671,
+    "longitude": 5.436703
   }
 ]
