@@ -1,20 +1,20 @@
 [
   {
-    "nom": "Trouver la porte rouge sculptée",
-    "imageUrl": "https://via.placeholder.com/400x300?text=Porte+Rouge",
-    "latitude": 50.2270,
-    "longitude": 5.3420
+    "nom": "Test défi 1",
+    "imageUrl": "https://raw.githubusercontent.com/Wallito87/photohunt-defis/refs/heads/main/images/defi1.jpg",
+    "latitude": 50.227529,
+    "longitude": 5.345177
   },
   {
-    "nom": "Repérer le numéro 24 en fer forgé",
-    "imageUrl": "https://via.placeholder.com/400x300?text=Fer+Forge",
-    "latitude": 50.2275,
-    "longitude": 5.3440
+    "nom": "Test défi 2",
+    "imageUrl": "https://raw.githubusercontent.com/Wallito87/photohunt-defis/refs/heads/main/images/defi2.JPG",
+    "latitude": 50.227083,
+    "longitude": 5.346555
   },
   {
-    "nom": "Photographier la gargouille du marché",
-    "imageUrl": "https://via.placeholder.com/400x300?text=Gargouille",
-    "latitude": 50.2280,
-    "longitude": 5.3460
+    "nom": "Test défi 3",
+    "imageUrl": "https://raw.githubusercontent.com/Wallito87/photohunt-defis/refs/heads/main/images/defi3.jpg",
+    "latitude": 50.226462,
+    "longitude": 5.342637
   }
 ]
